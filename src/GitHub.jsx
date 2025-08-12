@@ -8,7 +8,7 @@ const GitHub = () => {
     <>
         <Routes>
             <Route path='/bakmov' element={<Preview />}>
-                <Route path='/' element={<App />} />
+                <Route path='' element={<App />} />
             </Route>
         </Routes>
     </>
