@@ -1,8 +1,8 @@
 import { Client, Databases, ID, Query } from "appwrite";
 
-const PROJECT_ID = '6899c34d00253f159b9f'
-const DATABASE_ID = '6899c532001b2f30a889';
-const COLLECTION_ID = '6899c5940000627872a3';
+const PROJECT_ID = '689b005c003c840eed82'
+const DATABASE_ID = '689b511a00315acaf040';
+const COLLECTION_ID = '689b5132001793a36f23';
 
 const client = new Client()
     .setEndpoint('https://fra.cloud.appwrite.io/v1')
